@@ -1,1 +1,0 @@
-# easy-py-tasks-from-course-
